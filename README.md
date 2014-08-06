@@ -1,4 +1,4 @@
 DecoratorTutorial
 =================
 
-Decorator pattern
+Decorator pattern for Python
